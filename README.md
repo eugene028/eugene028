@@ -7,7 +7,7 @@
 
   ### Hi 👋 I'm Eugene Kim
   #### 🏫 Hongik Univ. computer engineering & Design engineering
-  #### 🦁 LIKELION Univ 10th Hongik Univ Leader & LIKELION Univ 10th PM-Design Track Leader 
+  #### 🦁 LIKELION Univ 10th Hongik Univ Leader & LIKELION Univ 10th Design Track Leader 
   #### 🎮 Google Play Store game "Gilgyu's silver button" Project Manager
   #### 🕹 Google Play Store game "Koala Archer" Engineer 
   #### 👩‍🏫 Samsung Dreamclass 2022 Mentor
