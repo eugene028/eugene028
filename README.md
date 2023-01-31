@@ -5,15 +5,15 @@
   ![header](https://capsule-render.vercel.app/api?type=waving&color=0:F8B195,50:F67280,100:C06C84&height=300&section=header&text=Eugene&fontSize=90&fontColor=f7f5f5&fontAlignY=30&fontAlign=75&desc=github&descSize=65&descAlign=82)
 </div>
 
-  ### Hi 👋 I'm Eugene Kim
-  #### 🏫 Hongik Univ. computer engineering & Design engineering
-  #### 🦁 LIKELION Univ 10th Hongik Univ Leader & LIKELION Univ 10th Design Track Leader 
-  #### 🎮 Google Play Store game "Gilgyu's silver button" Project Manager
-  #### 🕹 Google Play Store game "Koala Archer" Engineer 
-  #### 👩‍🏫 Samsung Dreamclass 2022 Mentor
+  ### 안녕하세요 👋 김유진입니다 !
+  #### 🏫 홍익대학교 자율전공학부(주전공 : 컴퓨터공학 융합전공 : 디자인엔지니어링)
+  #### 🦁 홍대 멋쟁이 사자처럼 9기, 멋쟁이 사자처럼 10기 대표, 멋쟁이 사자처럼 중앙 디자인트랙장
+  #### 🐻 1th GDSC Hongik FE Core Member, GDSC Open Community TF Member
+  #### 🎮 Google Play Store '길규는 실버버튼' 게임 기획자, '배고플 코활라' 엔지니어
+  #### 🕹  ZEPETO map 'G-Bioth university' 엔지니어
+  #### 🎡  모든 공연이 내 손 안에, 'festivalarm' FE 
+  #### 👩‍🏫 삼성드림클래스 2022 멘토
 
-    My Major is computer engineering, and my Integrated Major is Design enigineering
-    I'm interested in Project Manage and UX/UI Front-end Development Nice to meet you :)
   
 <div align="center" >
   
