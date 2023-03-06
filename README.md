@@ -42,14 +42,6 @@
     <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
     <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/>
     <br/>
-    <br/>
-     <p align="center" style = " display: flex; flex-direction: row;">
-    <a href="https://github.com/eugene028/github-readme-stats">
-      <span style="margin:20px;" align="left">
-        <img src="https://github-readme-stats.vercel.app/api?username=eugene028&hide=contribs,prs&theme=buefy&title_color=F67280&show_icons=true" />
-      </span>
-    </a>
-  </p>
   </div>
   
   ##
