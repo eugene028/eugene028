@@ -6,29 +6,36 @@
 </div>
 
   ### 안녕하세요 👋 김유진입니다 !
-  #### 🏫 홍익대학교 자율전공학부(주전공 : 컴퓨터공학 융합전공 : 디자인엔지니어링)
-  #### 🦁 홍대 멋쟁이 사자처럼 9기, 멋쟁이 사자처럼 10기 대표, 멋쟁이 사자처럼 중앙 디자인트랙장
-  #### 🐻 1th GDSC Hongik FE Core Member, GDSC Open Community TF Member
-  #### 🎮 Google Play Store '길규는 실버버튼' 게임 기획자, '배고플 코활라' 엔지니어
-  #### 🕹  ZEPETO map 'G-Bioth university' 엔지니어
-  #### 🎡  모든 공연이 내 손 안에, 'festivalarm' FE 
-  #### 👩‍🏫 삼성드림클래스 2022 멘토
+  <br>
+  <li> 🏫 홍익대학교 자율전공학부(주전공: 컴퓨터공학, 융합전공: 디자인엔지니어링) <sub>(2020.03 ~ )</sub></li>
+  <li> 🦁 홍익대학교 멋쟁이 사자처럼 9기 <sub>(2021.03 ~ 2021.12)</sub></li>
+  <li> 🦁 홍익대학교 멋쟁이 사자처럼 10기 대표 / 멋쟁이사자처럼 대학 디자인트랙장 <sub>(2022.03 ~ 2022.12)</sub></li>
+  <li> 🖥️ 1th <a href="https://github.com/GDSC-Hongik"> GDSC Hongik</a> FE Core Member <sub>(2022.09 ~ )</sub></li>
+  <li> 🖥️ 1th <a href="https://github.com/GDSC-Hongik"> GDSC Hongik</a> Open Community Lead <sub>(2023.02 ~ )</sub></li>
+  <li> <a href="https://github.com/Gosrock/DuDoong-Front"> 두둥 </a> - 모두를 위한 공연 라이프 FE <sub>(2023.01 ~ 2023.03)</sub></li>
+  <li> 🎡  모든 공연이 내 손 안에, <a href="https://github.com/MUTSA-TEAM-FESTIVALAM"> festivalarm </a> FE <sub>(2022.09 ~ 2023.03)</sub></li>
+  
+  <br>
+  <li> 🎮 Google Play Store '길규는 실버버튼' 게임 기획자, '배고플 코활라' 엔지니어 <sub>(2020.03 ~ 2021.01)</sub></li>
+  <li> 🕹  ZEPETO map 'G-Bioth university' 엔지니어 <sub>(2022.09 ~ 2022.12)</sub></li>
+  <li> 👩‍🏫 삼성드림클래스 2022 멘토 <sub>(2022.03 ~ 2023.03)</sub></li>
+
 
   
 <div align="center" >
   
   ##
   
-  ### 🛠 My technology stack 🛠
+  ### 🛠 technology stack 🛠
   <div align="center">
     <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=python&logoColor=white"/> 
     <img  src="https://img.shields.io/badge/C++-3766AB?style=flat-square&logo=C%2B%2B&logoColor=white"/>
-    <img  src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
-    <img  src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-    <img  src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
     <br/>
     <img  src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
     <img  src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+    <br/>
     <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
     <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/>
     <br/>
@@ -37,11 +44,6 @@
     <a href="https://github.com/eugene028/github-readme-stats">
       <span style="margin:20px;" align="left">
         <img src="https://github-readme-stats.vercel.app/api?username=eugene028&hide=contribs,prs&theme=buefy&title_color=F67280&show_icons=true" />
-      </span>
-    </a>
-    <a href="https://github.com/eugene028/convoychat">
-      <span style="margin:20px;" align="left">
-        <img style="margin:10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eugene028&layout=compact" />
       </span>
     </a>
   </p>
@@ -68,6 +70,9 @@
     <a href="https://www.instagram.com/luvvinter/">
       <img src="https://img.shields.io/badge/eugene02876-EA4335?style=plastic&logo=gmail&logoColor=white"/> 
     </a>
+    <br>
+    <br>
+    <a href = "https://velog.io/@gene028">블로그</a> 놀러와주세요!
   </div>
 </div>
 
