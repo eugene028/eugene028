@@ -12,7 +12,7 @@
   <li> 🦁 홍익대학교 멋쟁이 사자처럼 10기 대표 / 멋쟁이사자처럼 대학 디자인트랙장 <sub>(2022.03 ~ 2022.12)</sub></li>
   <li> 🖥️ 1th <a href="https://github.com/GDSC-Hongik"> GDSC Hongik</a> FE Core Member <sub>(2022.09 ~ )</sub></li>
   <li> 🖥️ 1th <a href="https://github.com/GDSC-Hongik"> GDSC Hongik</a> Open Community Lead <sub>(2023.02 ~ )</sub></li>
-  <li> <a href="https://github.com/Gosrock/DuDoong-Front"> 두둥 </a> - 모두를 위한 공연 라이프 FE <sub>(2023.01 ~ 2023.03)</sub></li>
+  <li> 🎟️ <a href="https://github.com/Gosrock/DuDoong-Front"> 두둥! </a> 모두를 위한 공연 라이프 FE <sub>(2023.01 ~ 2023.03)</sub></li>
   <li> 🎡  모든 공연이 내 손 안에, <a href="https://github.com/MUTSA-TEAM-FESTIVALAM"> festivalarm </a> FE <sub>(2022.09 ~ 2023.03)</sub></li>
   
   <br>
