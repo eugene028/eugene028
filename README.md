@@ -15,7 +15,8 @@
   <li> 🎟️ <a href="https://github.com/Gosrock/DuDoong-Front"> 두둥! </a> 모두를 위한 공연 라이프 FE <sub>(2023.01 ~ 2023.03)</sub></li>
   <li> 🎡 모든 공연이 내 손 안에, <a href="https://github.com/MUTSA-TEAM-FESTIVALAM"> festivalarm </a> FE <sub>(2022.09 ~ 2023.03)</sub></li>
   <li> ⚡쉽고 즐겁게 번개모임해요. <a href="https://github.com/eugene028/ShinChonTonFrontend">이리온</a> 기획 및 디자인<sub>(2022.08.28)</sub><li>
-<li> 🌃 제 10회 신촌소재 대학 연합 해커톤 <a href="https://github.com/10th-sinchonthon">신촌톤</a> 기획 및 모집 플랫폼 개발 <sub>(2022.07.01 ~ 2022.08.26)</sub>
+<li> 🌃 제 10회 신촌소재 대학 연합 해커톤 <a href="https://github.com/10th-sinchonthon">신촌톤</a> 기획 및 모집 플랫폼 개발 <sub>(2022.07.01 ~ 2022.08.26)</sub></li>
+<li> 📚 대학 선후배 커리어 플랫폼  <a href="https://github.com/G-who0212/sunbae">선배님</a> BE <sub>(2021.08.10 ~ 2021.08.12)</sub>></li>
   
   <br>
   <li> 🎮 Google Play Store <a href ="https://play.google.com/store/apps/details?id=com.ExpStudio.Gligyu">길규는 실버버튼</a> 기획자, <a href="https://play.google.com/store/apps/details?id=com.expStudio.android.koalaarcher">배고픈 코활라</a> 엔지니어 <sub>(2020.03 ~ 2021.01)</sub></li>
