@@ -1,5 +1,7 @@
 
-<div align="left">
+<div align="center">
+ 
+![3472365358305270021_20180124222945573](https://github.com/eugene028/eugene028/assets/67894159/d0dffc82-9e6e-4b81-86b2-e68060b24fd5)
 
   ### 안녕하세요 👋 김유진입니다 !
   <br>
