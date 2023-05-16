@@ -4,6 +4,8 @@
 ![3472365358305270021_20180124222945573](https://github.com/eugene028/eugene028/assets/67894159/d0dffc82-9e6e-4b81-86b2-e68060b24fd5)
 
   ### 안녕하세요 👋 김유진입니다 !
+</div>
+<div align="left">
   <br>
   <li> 🏫 홍익대학교 자율전공학부(주전공: 컴퓨터공학, 융합전공: 디자인엔지니어링) <sub>(2020.03 ~ )</sub></li>
   <li> 🦁 홍익대학교 멋쟁이 사자처럼 9기 <sub>(2021.03 ~ 2021.12)</sub></li>
@@ -20,7 +22,7 @@
   <li> 🎮 Google Play Store <a href ="https://play.google.com/store/apps/details?id=com.ExpStudio.Gligyu">길규는 실버버튼</a> 기획자, <a href="https://play.google.com/store/apps/details?id=com.expStudio.android.koalaarcher">배고픈 코활라</a> 엔지니어 <sub>(2020.03 ~ 2021.01)</sub></li>
   <li> 🕹  ZEPETO map 'G-Bioth university' 엔지니어 <sub>(2022.09 ~ 2022.12)</sub></li>
   <li> 👩‍🏫 삼성드림클래스 2022 멘토 <sub>(2022.03 ~ 2023.03)</sub></li>
-
+</div>
 
   
 <div align="center" >
