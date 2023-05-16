@@ -1,10 +1,6 @@
 
 <div align="center">
 
-
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=0:F8B195,50:F67280,100:C06C84&height=300&section=header&text=Eugene&fontSize=90&fontColor=f7f5f5&fontAlignY=30&fontAlign=75&desc=github&descSize=65&descAlign=82)
-</div>
-
   ### 안녕하세요 👋 김유진입니다 !
   <br>
   <li> 🏫 홍익대학교 자율전공학부(주전공: 컴퓨터공학, 융합전공: 디자인엔지니어링) <sub>(2020.03 ~ )</sub></li>
