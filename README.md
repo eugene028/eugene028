@@ -13,6 +13,7 @@
   <li> 🖥️ 1th <a href="https://github.com/GDSC-Hongik"> GDSC Hongik</a> FE Core Member <sub>(2022.09 ~ )</sub></li>
   <li> 🖥️ 1th <a href="https://github.com/GDSC-Hongik"> GDSC Hongik</a> Open Community Lead <sub>(2023.02 ~ )</sub></li>
  <br>
+ <li> 👩‍🏫 <a href="https://github.com/eugene028/imhere-client"> Imhere </a>v2 GDSC 스터디 수강생 출석체크 및 수강신청 서비스 디자인/FE<sub>(2023.04 ~) </sub></li>
   <li> 🎟️ <a href="https://github.com/Gosrock/DuDoong-Front"> 두둥! </a> 모두를 위한 공연 라이프 FE <sub>(2023.01 ~ 2023.03)</sub></li>
   <li> 🎡 모든 공연이 내 손 안에, <a href="https://github.com/MUTSA-TEAM-FESTIVALAM"> festivalarm </a> FE <sub>(2022.09 ~ 2023.03)</sub></li>
   <li> ⚡쉽고 즐겁게 번개모임해요. <a href="https://github.com/eugene028/ShinChonTonFrontend">이리온</a> 기획 및 디자인<sub>(2022.08.28)</sub></li>
