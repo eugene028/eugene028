@@ -10,8 +10,7 @@
   <li> 🏫 홍익대학교 자율전공학부(주전공: 컴퓨터공학, 융합전공: 디자인엔지니어링) <sub>(2020.03 ~ )</sub></li>
   <li> 🦁 홍익대학교 멋쟁이 사자처럼 9기 <sub>(2021.03 ~ 2021.12)</sub></li>
   <li> 🦁 홍익대학교 멋쟁이 사자처럼 10기 대표 / 멋쟁이사자처럼 대학 디자인트랙장 <sub>(2022.03 ~ 2022.12)</sub></li>
-  <li> 🖥️ 1th <a href="https://github.com/GDSC-Hongik"> GDSC Hongik</a> FE Core Member <sub>(2022.09 ~ )</sub></li>
-  <li> 🖥️ 1th <a href="https://github.com/GDSC-Hongik"> GDSC Hongik</a> Open Community Lead <sub>(2023.02 ~ )</sub></li>
+  <li> 🖥️ 1th <a href="https://github.com/GDSC-Hongik"> GDSC Hongik</a> FE Core Member <sub>(2022.09 ~ 2023.07 )</sub></li>
  <br>
  <li> 👩‍🏫 <a href="https://github.com/eugene028/imhere-client"> Imhere </a>v2 GDSC 스터디 수강생 출석체크 및 수강신청 서비스 디자인/FE<sub>(2023.04 ~) </sub></li>
   <li> 🎟️ <a href="https://github.com/Gosrock/DuDoong-Front"> 두둥! </a> 모두를 위한 공연 라이프 FE <sub>(2023.01 ~ 2023.03)</sub></li>
