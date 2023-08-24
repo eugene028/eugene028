@@ -18,8 +18,7 @@
   <li> 🎡 모든 공연이 내 손 안에, <a href="https://github.com/MUTSA-TEAM-FESTIVALAM"> festivalarm </a> FE <sub>(2022.09 ~ 2023.03)</sub></li>
   <li> ⚡쉽고 즐겁게 번개모임해요. <a href="https://github.com/eugene028/ShinChonTonFrontend">이리온</a> 기획 및 디자인<sub>(2022.08.28)</sub></li>
   <li> 🌃 제 10회 신촌소재 대학 연합 해커톤 <a href="https://github.com/10th-sinchonthon">신촌톤</a> 기획 및 모집 플랫폼 개발 <sub>(2022.07.01 ~ 2022.08.26)</sub></li>
-  <li> 📚 대학 선후배 커리어 플랫폼  <a href="https://github.com/G-who0212/sunbae">선배님</a> BE <sub>(2021.08.10 ~ 2021.08.12)</sub>></li>
-  
+
   <br>
   <li> 🎮 Google Play Store <a href ="https://play.google.com/store/apps/details?id=com.ExpStudio.Gligyu">길규는 실버버튼</a> 기획자, <a href="https://play.google.com/store/apps/details?id=com.expStudio.android.koalaarcher">배고픈 코활라</a> 엔지니어 <sub>(2020.03 ~ 2021.01)</sub></li>
   <li> 🕹  ZEPETO map 'G-Bioth university' 엔지니어 <sub>(2022.09 ~ 2022.12)</sub></li>
@@ -37,6 +36,7 @@
     <img  src="https://img.shields.io/badge/C++-3766AB?style=flat-square&logo=C%2B%2B&logoColor=white"/>
     <br/>
     <img  src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+    <img  src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/> 
     <img  src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
     <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white">
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
@@ -58,15 +58,11 @@
   ##
   ### 📩 Contact 📩
   <div align="center">
-    <a href="https://www.instagram.com/luvvinter/">
       <img src="https://img.shields.io/badge/luvvinter-E4405F?style=plastic&logo=instagram&logoColor=white"/> 
-    </a>
     <a href="https://www.instagram.com/luvvinter/">
-      <img src="https://img.shields.io/badge/김유진8449-5865F2?style=plastic&logo=discord&logoColor=white"/> 
+      <img src="https://img.shields.io/badge/@eugene028-5865F2?style=plastic&logo=discord&logoColor=white"/> 
     </a>
-    <a href="https://www.instagram.com/luvvinter/">
       <img src="https://img.shields.io/badge/eugene02876-EA4335?style=plastic&logo=gmail&logoColor=white"/> 
-    </a>
     <br>
     <br>
     <a href = "https://velog.io/@gene028">블로그</a> 놀러와주세요!
