@@ -22,7 +22,14 @@
   <li> 👩‍🏫 삼성드림클래스 2022 멘토 <sub>(2022.03 ~ 2023.03)</sub></li>
 </div>
 
-  
+<h2></h2>
+
+<div align="center" >
+<h3></h3>
+ 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gene028)](https://solved.ac/gene028)
+</div>
+
 <div align="center" >
   
   ##
