@@ -12,11 +12,7 @@
  <br>
  <li> 👩‍🏫 <a href="https://github.com/eugene028/imhere-client"> Imhere </a>v2 GDSC 스터디 수강생 출석체크 및 수강신청 서비스 디자인/FE<sub>(2023.04 ~) </sub></li>
   <li> 🎟️ <a href="https://github.com/Gosrock/DuDoong-Front"> 두둥! </a> 모두를 위한 공연 라이프 FE <sub>(2023.01 ~ 2023.03)</sub></li>
-  <li> 🎡 모든 공연이 내 손 안에, <a href="https://github.com/MUTSA-TEAM-FESTIVALAM"> festivalarm </a> FE <sub>(2022.09 ~ 2023.03)</sub></li>
   <br>
-  <li> 🎮 Google Play Store <a href ="https://play.google.com/store/apps/details?id=com.ExpStudio.Gligyu">길규는 실버버튼</a> 기획자, <a href="https://play.google.com/store/apps/details?id=com.expStudio.android.koalaarcher">배고픈 코활라</a> 엔지니어 <sub>(2020.03 ~ 2021.01)</sub></li>
-  <li> 🕹  ZEPETO map 'G-Bioth university' 엔지니어 <sub>(2022.09 ~ 2022.12)</sub></li>
-  <li> 👩‍🏫 삼성드림클래스 2022 멘토 <sub>(2022.03 ~ 2023.03)</sub></li>
 </div>
 
 <h2></h2>
